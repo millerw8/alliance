@@ -109,6 +109,11 @@
         <!--end ddf dependencies-->
 
         <dependency>
+            <groupId>org.awaitility</groupId>
+            <artifactId>awaitility</artifactId>
+            <version>${awaitility.version}</version>
+        </dependency>
+        <dependency>
             <groupId>org.codice.alliance.test.itests</groupId>
             <artifactId>test-itests-common</artifactId>
             <version>${project.version}</version>

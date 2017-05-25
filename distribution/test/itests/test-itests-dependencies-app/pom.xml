@@ -68,6 +68,11 @@
             <artifactId>restito</artifactId>
             <version>${ddf.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.awaitility</groupId>
+            <artifactId>awaitility</artifactId>
+            <version>${awaitility.version}</version>
+        </dependency>
 
         <dependency>
             <groupId>org.codice.alliance.distribution</groupId>
